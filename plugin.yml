@@ -1,9 +1,9 @@
 name: VoteReward
 main: LDX\VoteReward\Main
 version: 3.0.3
-api: [3.0.0]
-author: LDX
-website: "https://github.com/LDX-MCPE/VoteReward"
+api: [3.3.0]
+author: BlueMystery
+website: "https://github.com/bluemystery/VoteReward"
 load: POSTWORLD
 commands:
   vote:
