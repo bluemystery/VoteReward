@@ -1,4 +1,4 @@
-The Original Voting plugin by LDX
+The Edited Voting plugin by BlueMystery
 ---------------------------------
 
 VoteReward is the original voting plugin for PocketMine-MP servers.
@@ -22,4 +22,4 @@ Commands
 Version 3.0
 -----------
 
-It's finally here! After a long wait, and many, many hours of hard work, VoteReward 3.0 is ready to roll! Head to your favorite server list now and see if they've added a VRC file download. When you find a VRC file, simply drop it in your VoteReward/Lists/ folder, and execute the command /vote reload to watch your players start getting rewarded for voting for your server! You can visit the official VoteReward website here (http://votereward.mcpe.me/), you can find a list of certified...
+It's finally here! After a long wait, and many, many hours of hard work, VoteReward 3.0 is ready to roll! Head to your favorite server list now and see if they've added a VRC file download. When you find a VRC file, simply drop it in your VoteReward/Lists/ folder, and execute the command /vote reload to watch your players start getting rewarded for voting for your server! you can subscribe to the creator on youtube at www.youtube.com/bluemysterygaming
